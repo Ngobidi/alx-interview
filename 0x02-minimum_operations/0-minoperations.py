@@ -1,11 +1,12 @@
 #!/usr/bin/python3
-"""minimum operations coding interview challenge."""
+'''minimum operations coding interview challenge.
+'''
 
 
 def minOperations(n):
-    """Computes with the smallest num of operations needed to result
+    '''calculates with the smallest num of operations needed to result
     in exactly n H characters.
-    """
+    '''
     if not isinstance(n, int):
         return 0
     ops_count = 0
