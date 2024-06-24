@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""module for cumputing Island perimeter.
+"""module for cumputing Island_perimeter.
 """
 
 
